@@ -18,7 +18,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-publication: Journal of Biomedical Informatics
+publication: Journal of Biomedical Informatics (Under Review)
 
 date: '2023-11-15'
 ---
