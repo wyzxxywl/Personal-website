@@ -80,10 +80,6 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
   - block: collection
     id: posts
     content:
