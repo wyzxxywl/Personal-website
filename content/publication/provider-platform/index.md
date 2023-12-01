@@ -1,5 +1,5 @@
 ---
-title: 'Bridging the Skills Gap: Evaluating an AI-Assisted Provider Platform to Support Care Providers with Empathetic Delivery of Protocolized Therapy.'
+title: 'Bridging the Skills Gap: Evaluating an AI-Assisted Provider Platform to Support Care Providers with Empathetic Delivery of Protocolized Therapy'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,6 +13,8 @@ authors:
   - Alex Marin
   - Trevor Cohen
   - Weichao Yuwen
+
+publication: AMIA Annu Symp Proc. 2023
 
 date: '2023-08-01'
 ---

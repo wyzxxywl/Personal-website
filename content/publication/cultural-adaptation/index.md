@@ -1,5 +1,5 @@
 ---
-title: 'Bridging the Skills Gap: Evaluating an AI-Assisted Provider Platform to Support Care Providers with Empathetic Delivery of Protocolized Therapy. Under Review'
+title: 'Can Natural Language Processing Support Cultural Adaptation of Internet- and Mobile-based Health Interventions? A Scoping Review. Under Review'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -17,6 +17,8 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
+
+publication: Journal of Biomedical Informatics
 
 date: '2023-11-15'
 ---
