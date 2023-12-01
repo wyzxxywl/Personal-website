@@ -15,6 +15,7 @@ authors:
   - Weichao Yuwen
 
 publication: AMIA Annu Symp Proc. 2023
+abstract: blablablablablablablablablablablablablablabla
 
 date: '2023-08-01'
 ---

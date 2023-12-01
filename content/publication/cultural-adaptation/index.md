@@ -20,5 +20,7 @@ author_notes:
 
 publication: Journal of Biomedical Informatics (Under Review)
 
+abstract: blablablablablablablablablablablablablablabla
+
 date: '2023-11-15'
 ---
