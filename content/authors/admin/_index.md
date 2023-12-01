@@ -13,10 +13,10 @@ superuser: true
 role: Student
 
 # Interests to show in About widget
-interests:
-  - Large Language Models and Psychotherapy
+Keywords:
+  - LLM-enabled Psychotherapy
   - Huamn-Language Model Interaction
-  - Digital Mental Health Interventions
+  - Cultural Adaptation 
 
 # Education to show in About widget
 education:
