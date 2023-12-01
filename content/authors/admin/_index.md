@@ -13,7 +13,7 @@ superuser: true
 role: Student
 
 # Interests to show in About widget
-interest:
+interests:
   - LLM-enabled Psychotherapy
   - Huamn-Language Model Interaction
   - Cultural Adaptation 
