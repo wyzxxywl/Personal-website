@@ -45,11 +45,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: Publications
       filters:
         folders:
           - publication
@@ -60,7 +56,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Featured Projects
+      title: Featured Project
       filters:
         folders:
           - project
