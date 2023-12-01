@@ -53,7 +53,7 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: portfolio
+  - block: collection
     id: projects
     content:
       title: Featured Project
