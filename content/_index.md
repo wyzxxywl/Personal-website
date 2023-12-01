@@ -53,33 +53,24 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
+  - block: portfolio
     id: projects
     content:
-      title: Projects
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
+      title: Project
       filters:
         folders:
           - project
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
     design:
-      # Choose a layout view
-      view: compact
+      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
+      view: compact
   - block: collection
     id: posts
     content:
@@ -108,31 +99,3 @@ sections:
       view: compact
       columns: '2'
 ---
-
-  <!-- - block: collection
-    id: projects
-    content:
-      title: Project
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - project
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2' -->
