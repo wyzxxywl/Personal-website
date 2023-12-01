@@ -56,7 +56,7 @@ sections:
   - block: collection
     id: projects
     content:
-      title: Featured Project
+      title: Project
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
