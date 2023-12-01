@@ -1,5 +1,5 @@
 ---
-title: 'Can Natural Language Processing Support Cultural Adaptation of Internet- and Mobile-based Health Interventions? A Scoping Review. Under Review'
+title: 'Can Natural Language Processing Support Cultural Adaptation of Internet- and Mobile-based Health Interventions? A Scoping Review.'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
