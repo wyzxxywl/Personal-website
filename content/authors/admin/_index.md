@@ -39,12 +39,6 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/wyzxxywl
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/yinzhou-wang/
   - icon: medium
     icon_pack: fab
     link: https://medium.com/@yinzhouw22
