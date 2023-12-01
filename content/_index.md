@@ -54,7 +54,7 @@ sections:
       columns: '2'
       view: citation
   - block: portfolio
-    id: projects
+    id: project
     content:
       title: Project
       filters:
