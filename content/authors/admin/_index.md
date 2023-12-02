@@ -47,6 +47,6 @@ social:
 highlight_name: true
 ---
 
-Hi! I recently graduated from Dartmouth College and now working as a RA at the University of Washington. My interests lie at the intersection of NLP, HCI, Informatics and Mental health. These are the research topics deeply interest me: 1) LLM-enabled cognitive behavioral therapy 2) Cross-culture allignemnt in LLMs 3) Efficient synthetic dialogue generation 4) Automatic evaluation for Health dialogue systems.
+Hi! I recently graduated from Dartmouth College and now working as a RA to develop LLMs for Pscyhotherapy. While at University of Washington, I was a [Mary Gates Research Scholar](https://expd.uw.edu/mge/apply/research/). My interest lie at the intersection of NLP, HCI, Informatics and Mental health. These are the research topics deeply interest me: 1) LLM-enabled pychotherapy 2) Cultural alignment in LLMs 3) Efficient synthetic dialogue generation 4) Automatic evaluation for health dialogue systems. 5) AI-assited mental health invertentions.
 
 {style="text-align: justify;"}
