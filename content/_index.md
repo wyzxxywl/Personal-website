@@ -43,7 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
-    id: publications
+    id: publication
     content:
       title: Publications
       filters:
@@ -72,7 +72,7 @@ sections:
       columns: '2'
       view: compact
   - block: collection
-    id: posts
+    id: post
     content:
       title: Recent Posts
       subtitle: ''
