@@ -21,7 +21,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MS in Quantative Biomedical Sciences
+    - course: MS in Quantitative Biomedical Sciences
       institution: Dartmouth College
       year: 2023
     - course: BA in Math
