@@ -14,6 +14,8 @@ authors:
   - Trevor Cohen
   - Weichao Yuwen
 
+external_link: 'https://arxiv.org/abs/2401.03631'
+
 publication: AMIA Annu Symp Proc. 2023 (Accepted)
 abstract: Despite the high prevalence and burden of mental health conditions, there is a global shortage of mental health providers. Artificial Intelligence (AI) methods have been proposed as a way to address this shortage, by supporting providers with less extensive training as they deliver care. To this end, we developed the AI-Assisted Provider Platform (A2P2), a text-based virtual therapy interface that includes a response suggestion feature, which supports providers in delivering protocolized therapies empathetically. We studied providers with and without expertise in mental health treatment delivering a therapy session using the platform with (intervention) and without (control) AI-assistance features. Upon evaluation, the AI-assisted system significantly decreased response times by 29.34% (p=0.002), tripled empathic response accuracy (p=0.0001), and increased goal recommendation accuracy by 66.67% (p=0.001) across both user groups compared to the control. Both groups rated the system as having excellent usability.
 
